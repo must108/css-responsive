@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+body {
+  background-color: #333333;
+  color: white;
+}
+
+#demo {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  border-radius: 25px;
+}
+
+#demo2 {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  border-radius: 25px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: white;
+}/*# sourceMappingURL=newstyle1.css.map */
